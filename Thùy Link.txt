@@ -1,0 +1,7 @@
+https://www.codingforentrepreneurs.com/blog/install-python-django-on-windows/
+
+https://kipalog.com/posts/Gioi-thieu-Virtual-Environment-trong-Python
+
+http://docs.python-guide.org/en/latest/dev/virtualenvs/
+
+
